@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 #I'm Kshitij Passi
+
 [![linkedin badge](https://img.shields.io/badge/kshitijpassi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/kshitij-passi/)
 [![twitter badge](https://img.shields.io/badge/@kshitijpassi-30302f?style=flat&logo=twitter)](https://twitter.com/kshitijpassi)
 [![Gmail Badge](https://img.shields.io/badge/kshitijnishu@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:kshitijnishu@gmail.com)
